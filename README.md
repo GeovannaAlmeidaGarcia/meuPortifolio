@@ -6,7 +6,7 @@ Bem-vindo ao meu portfólio! Aqui você pode conhecer um pouco mais sobre mim, m
 
 ## Sobre Mim
 
-👋 Olá! Eu sou Geovanna de Almeida Garcia, uma aprendiz em desenvolvedor de software apaixonado por tecnologia e programação. Tenho experiência em diversas linguagens de programação.
+👋 Olá! Eu sou Geovanna de Almeida Garcia, uma aprendiz em desenvolvimento de software apaixonada por tecnologia e programação. Tenho experiência em diversas linguagens de programação.
 
 ### Minhas Habilidades
 
